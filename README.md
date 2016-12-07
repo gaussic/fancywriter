@@ -1,2 +1,3 @@
 # fancywriter
-Using deep neural nets to write books
+
+Using deep neural nets to write.
